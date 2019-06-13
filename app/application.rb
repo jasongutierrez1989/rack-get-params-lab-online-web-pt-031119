@@ -45,5 +45,5 @@ class Application
     end
   end
 
-  def 
+  def
 end
